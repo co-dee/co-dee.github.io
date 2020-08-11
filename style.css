@@ -47,14 +47,12 @@ body, html{
 	background-color:#C6B0841A;
 	color:#666;
 	font-family: 'Nanum Myeongjo', serif;
-	word-wrap: break-word;
 }
 
 .section-dark{
 	background-color:#AD9F6BCC;
 	color:#E1E1E1;
 	font-family: 'Nanum Myeongjo', serif;
-	word-wrap: break-word;
 }
 
 .title{
@@ -67,7 +65,6 @@ body, html{
 	letter-spacing:8px;
 	text-transform:uppercase;
 	font-family: 'Nanum Myeongjo', serif;
-	word-wrap: break-word;
 }
 
 .title .border.solid{
